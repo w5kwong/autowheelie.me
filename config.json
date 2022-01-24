@@ -1,0 +1,73 @@
+{
+  "data":{
+    "type": "local",
+    "name": "data"
+  },
+  "meta": {
+    "title": "AutoWheelie",
+    "description": "Microblog on project updates",
+    "image": "/static/ProductLog.png"
+  },
+  "logo": {
+    "image": "/static/autowheelie.png",
+    "text": "AutoWheelie"
+  },
+  "header": {
+    "title": "Changelog",
+    "description": "New updates and improvements to this project will be documented in this page.",
+    "menu": [
+      {
+        "name": "About",
+        "link": "https://example.com"
+      },
+      {
+        "name": "Contact",
+        "link": "mailto:w5kwong@uwaterloo.ca",
+        "type": "button"
+      }
+    ]
+  },
+  "footer": {
+    "section": [
+      {
+        "linkTitle": "Social",
+        "links": [
+          {
+            "name": "Twitter",
+            "link": "https://example.com"
+          },
+          {
+            "name": "GitHub",
+            "link": "https://example.com"
+          },
+          {
+            "name": "Discuss",
+            "link": "https://example.com"
+          }
+        ]
+      },
+      {
+        "linkTitle": "Company",
+        "links": [
+          {
+            "name": "About",
+            "link": "https://example.com"
+          },
+          {
+            "name": "F.A.Q",
+            "link": "https://example.com"
+          },
+          {
+            "name": "Contact",
+            "link": "https://example.com"
+          }
+        ]
+      }
+    ],
+    "copyright": "© 2022 AutoWheelie · All rights reserved"
+  },
+  "analytics": {
+    "type": "Google Analytics",
+    "id": ""
+  }
+}
