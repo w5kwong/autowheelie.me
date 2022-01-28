@@ -19,7 +19,9 @@
   "homepage": "https://autowheelie.me/",
   "scripts": {
     "dev": "next dev",
-    "build": "next build"
+    "build": "next build",
+    "export": "next export",
+    "start": "next start"
   },
   "dependencies": {
     "@tailwindcss/aspect-ratio": "^0.2.1",
