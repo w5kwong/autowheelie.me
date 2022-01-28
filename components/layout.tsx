@@ -16,10 +16,10 @@ export default function Layout({
         <title>{title}</title>
         <meta name="description" content={description} />
         <meta property="og:title" content={title} />
-        <meta property="og:site_name" content="Product Log" />
+        <meta property="og:site_name" content="AutoWheelie" />
         <meta property="og:description" content={description} />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:site" content="@apvarun" />
+        <meta name="twitter:site" content="" />
         <meta property="og:image" content={config.meta.image} />
         <link rel="preconnect" href="https://fonts.googleapis.com"></link>
         <link rel="preconnect" href="https://fonts.gstatic.com"></link>
