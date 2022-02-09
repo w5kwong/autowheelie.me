@@ -6,7 +6,7 @@
   "meta": {
     "title": "AutoWheelie",
     "description": "Microblog on project updates",
-    "image": "/static/ProductLog.png"
+    "image": ""
   },
   "logo": {
     "image": "/static/autowheelie.png",
@@ -18,7 +18,7 @@
     "menu": [
       {
         "name": "About",
-        "link": "https://example.com"
+        "link": ""
       },
       {
         "name": "Contact",
@@ -30,36 +30,19 @@
   "footer": {
     "section": [
       {
-        "linkTitle": "Social",
-        "links": [
-          {
-            "name": "Twitter",
-            "link": "https://example.com"
-          },
-          {
-            "name": "GitHub",
-            "link": "https://example.com"
-          },
-          {
-            "name": "Discuss",
-            "link": "https://example.com"
-          }
-        ]
-      },
-      {
         "linkTitle": "Company",
         "links": [
           {
             "name": "About",
-            "link": "https://example.com"
+            "link": ""
           },
           {
             "name": "F.A.Q",
-            "link": "https://example.com"
+            "link": ""
           },
           {
             "name": "Contact",
-            "link": "https://example.com"
+            "link": "mailto:w5kwong@uwaterloo.ca"
           }
         ]
       }

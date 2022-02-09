@@ -6,17 +6,17 @@ import NavMenu from './navMenu';
 export default function Header() {
   return (
     <header className="bg-primary-light">
-      <div className="flex items-center justify-between max-w-6xl p-8 mx-auto">
+      <div className="flex items-start justify-between max-w-6xl p-8 mx-auto">
         <Link href="/">
           <a className="font-medium text-2xl flex gap-2">
             {config.logo.image && (
               <img
                 src={config.logo.image}
-                className="w-8 max-h-8 object-contain"
+                className="max-w-32 max-h-32 object-contain"
                 alt={config.logo.text}
               />
             )}
-            <span>{config.logo.text}</span>
+            {/* <span>{config.logo.text}</span> */}
           </a>
         </Link>
         <NavMenu />
