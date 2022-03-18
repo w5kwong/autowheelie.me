@@ -34,11 +34,7 @@
         "links": [
           {
             "name": "About",
-            "link": ""
-          },
-          {
-            "name": "F.A.Q",
-            "link": ""
+            "link": "/about"
           },
           {
             "name": "Contact",
