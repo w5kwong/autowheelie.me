@@ -8,4 +8,4 @@ The new hoverboard PCB can't be flashed with custom software, so instead we're p
 
 #### Mechanical
 Machining out the t slotted aluminum. We've been steadily purchasing components and getting them shipped over. Double checking the assembly thats currently attached to the rear of the wheelchair.
-![Rear of wheelchair](../../public/static/photos/rearofwheelchair.jpg)
+![Rear of wheelchair](/static/photos/rearofwheelchair.jpg)
