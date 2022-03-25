@@ -15,7 +15,7 @@ export default function Sidebar({
   return (
     <div className="flex flex-col">
       {showBackHome && (
-        <Link href={`/`}>
+        <Link href={`/blog`}>
           <a className="mb-4">← Back home</a>
         </Link>
       )}

@@ -96,7 +96,6 @@ const DropdownMenuItem = ({ name, children }: DropdownItem) => (
 const SimpleMenuItem = ({ name, link, type = '' }: Item) => (
   <a
     href={link}
-    target="_blank"
     rel="noopener"
     className={`px-3 py-2 ${
       type === 'button'

@@ -28,10 +28,6 @@ export default function Landing({
         ></link>
       </Head>
       <LandingHeader />
-      <main className="p-8 max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-4 gap-2 lg:gap-4">
-        {children}
-      </main>
-      <Footer />
     </>
   );
 }
