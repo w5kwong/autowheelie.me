@@ -35,7 +35,6 @@ const MobileMenu = ({ menu }: { menu: Menu }) => {
                   <li key={subChild.name + subChild.link}>
                     <a
                       href={subChild.link}
-                      target="_blank"
                       rel="noopener"
                       className="block px-4 py-2 hover:bg-primary-light"
                     >
@@ -49,7 +48,6 @@ const MobileMenu = ({ menu }: { menu: Menu }) => {
                 <li key={child.name + child.link}>
                   <a
                     href={child.link}
-                    target="_blank"
                     rel="noopener"
                     className="block px-4 py-2 hover:bg-primary-light"
                   >
@@ -80,7 +78,6 @@ const DropdownMenuItem = ({ name, children }: DropdownItem) => (
           <li key={child.name + child.link}>
             <a
               href={child.link}
-              target="_blank"
               rel="noopener"
               className="block px-4 py-2 hover:bg-primary-light"
             >

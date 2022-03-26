@@ -7,7 +7,7 @@ export default function LandingHeader() {
   return (
     <header className="h-screen">
       <div>
-        <video autoPlay muted loop className= "video h-screen">
+        <video autoPlay muted loop className= "video">
           <source src="/static/videos/backgroundvideo.mp4" type="video/mp4"/>
         </video>
         <div className="flex items-start justify-end max-w-6xl p-8 mx-auto">
