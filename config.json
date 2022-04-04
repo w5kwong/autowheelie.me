@@ -21,6 +21,10 @@
         "link": "/blog"
       },
       {
+        "name": "Video",
+        "link": "https://youtu.be/ANDiBxhBzso"
+      },
+      {
         "name": "Contact",
         "link": "mailto:w5kwong@uwaterloo.ca",
         "type": "button"
